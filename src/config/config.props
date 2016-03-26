@@ -1,0 +1,3 @@
+db_path=jdbc:oracle:thin:@localhost:1521:BMDB
+db_user=SYSTEM
+db_password=2DSI6bm4BSJ
